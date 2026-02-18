@@ -1,0 +1,19 @@
+{
+  "name": "kalaignarin-kanavu-illam-tracker",
+  "version": "1.0.0",
+  "description": "Complete Housing Monitoring System for Kalaignarin Kanavu Illam - Mayiladuthurai District",
+  "main": "index.html",
+  "scripts": {
+    "dev": "npx serve .",
+    "build": "echo 'No build needed - static HTML'"
+  },
+  "keywords": [
+    "housing",
+    "monitoring",
+    "tamil-nadu",
+    "mayiladuthurai",
+    "government"
+  ],
+  "author": "Tamil Nadu Housing Department",
+  "license": "MIT"
+}
